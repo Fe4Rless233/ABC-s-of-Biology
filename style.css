@@ -347,3 +347,9 @@ footer li::before {
     left: 0;
     color: var(--primary-color);
 }
+
+/* Hanging Indent for Bibliography */
+#bibliography-list li {
+    text-indent: -2em; /* Adjust this value based on how much you want it to indent */
+    padding-left: 2em;  /* This value should match the absolute value of text-indent */
+}
