@@ -43,7 +43,7 @@ const biologyABCData = [
     letter: "F",
     term: "Facilitated diffusion",
     imageSrc: "images/F.jpg",
-    definition: "Facilitated Diffusion is a form of a passive transport where molecules that cannot pass through the permeable membrane can go into the cell through channel and carrier proteins.",
+    definition: "Facilitated Diffusion is a form of a passive transport where molecules that cannot pass through the semi-permeable membrane can go into the cell through channel and carrier proteins.",
     explanation: "During the process of Photosynthesis, An enzyme known as ATP synthase also functions a channel protein for hydrogen ions to pass through.",
     unit: "Unit 3: Cells"
   },
@@ -52,7 +52,7 @@ const biologyABCData = [
     term: "Genetic variation",
     imageSrc: "images/G.jpg",
     definition: "G - Genetic variation discusses how individuals within a population will have different nucleotide sequences, causing the individuals to present different phenotypes or possibility differences in immune system.",
-    explanation: "	Here we have two individuals who both present gene variation. The most apparent variation comes in the form of their melanin content in their skin. Also differences in eye color are apparent.",
+    explanation: "	Here we have two individuals who both present gene variation. The most apparent variation comes in the form of their melanin content in their skin. Also the differences in eye color are apparent.",
     unit: "Unit 6: Genetics"
   },
   {
@@ -91,7 +91,7 @@ const biologyABCData = [
     letter: "L",
     term: "Lactic acid fermentation",
     imageSrc: "images/L.jpg",
-    definition: "Lactic Acid fermentation is anaerobic process in muscle cells fatigues muscles when there is a lack of oxygen, but need for energy",
+    definition: "Lactic Acid fermentation is anaerobic process in muscle cells that fatigues muscles when there is a lack of oxygen, but need for energy",
     explanation: "	The picture of the tennis player represents the activities that a person can go through that causes lactic acid to build up. As he continues to play more and struggles intaking oxygen, the muscle cells will begin to fatigue to the quantity of lactic acid. ",
     unit: "Unit 4: Bioenergetics"
   },
@@ -195,7 +195,7 @@ const biologyABCData = [
     letter: "Y",
     term: "Y - Chromosome",
     imageSrc: "images/Y.jpg",
-    definition: "he Y chromosome is one of the sex chromosomes in humans and is used to determine the male sex.",
+    definition: "The Y chromosome is one of the sex chromosomes in humans and is used to determine the male sex.",
     explanation: "The male figure in the image represents the presence of a Y chromosome.",
     unit: "Unit 6: Genetics"
   },
