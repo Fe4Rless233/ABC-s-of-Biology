@@ -1,75 +1,42 @@
-# The ABC's of Biology
-An interactive and educational website designed to teach fundamental biology concepts through an A-to-Z format. This project was created by Aklavya Kumar and Mehul Khattar.
+# 🧬 The ABC's of Biology
 
-🌟 Overview
-"The ABC's of Biology" serves as a dynamic, single-page web application that presents a key biological term for each letter of the alphabet. Each entry is designed to be informative and visually engaging, making it an excellent study aid or introductory tool for students. The project leverages modern web technologies to create a smooth, animated, and user-friendly experience.
+**An interactive and educational website designed to teach fundamental biology concepts through an A-to-Z format.**  
+Created by **Aklavya Kumar** and **Mehul Khattar**.
 
-✨ Key Features
-26 Unique Entries: Covers a wide range of topics, from "Analogous Structures" to "Zygote".
+---
 
-Detailed Content: Each entry includes:
+## 🌟 Overview
 
-A clear, student-written Definition.
+**The ABC's of Biology** is a dynamic, single-page web application that presents a key biological term for each letter of the alphabet. Each entry is informative and visually engaging, making it an excellent study aid or introductory tool for students. The project leverages modern web technologies to deliver a smooth, animated, and user-friendly experience.
 
-A Photo to visually represent the concept.
+---
 
-A detailed Explanation of how the photo illustrates the term.
+## ✨ Key Features
 
-The corresponding academic Unit/Topic.
+- **26 Unique Entries**  
+  Covers a wide range of topics from **"Analogous Structures"** to **"Zygote"**.
 
-Interactive & Animated UI:
+- **Detailed Content for Each Entry**  
+  - ✅ Clear, student-written **Definition**  
+  - 🖼️ **Photo** to visually represent the concept  
+  - 📖 **Explanation** of how the photo illustrates the term  
+  - 📚 Corresponding academic **Unit/Topic**
 
-A sleek loading animation on entry.
+- **Interactive & Animated UI**  
+  - ⚡ Sleek loading animation per entry  
+  - 🎯 Smooth on-scroll animations using the IntersectionObserver API  
+  - 📱 Responsive design for various screen sizes
 
-Smooth, on-scroll animations that reveal content as the user navigates the page.
+- **Self-Contained**  
+  - Runs entirely in the browser  
+  - No installation or backend needed
 
-A clean, modern, and responsive design suitable for various screen sizes.
+---
 
-Self-Contained: The project runs entirely in the browser with no required installations or backend dependencies.
+## 🚀 Getting Started
 
-🚀 Getting Started
-To run this project locally, simply follow these steps:
+To run the project locally:
 
-Clone the repository or download the files.
-
-git clone https://github.com/your-username/abc-s-of-biology.git
-
-Navigate to the project directory.
-
-cd abc-s-of-biology
-
-Open the index.html file in your preferred web browser.
-
-You can typically just double-click the file, or right-click and select "Open with..." to choose a browser.
-
-That's it! The website will load and be fully functional.
-
-🛠️ Technologies Used
-HTML5: Provides the core structure and content of the web page.
-
-CSS3: Handles all styling, including the layout, color scheme, typography, and complex animations (like keyframes for reveals and transitions).
-
-JavaScript (ES6): Powers the dynamic functionality of the site, including:
-
-Reading data from data.js.
-
-Dynamically generating the HTML for each of the 26 biology entries.
-
-Implementing the on-scroll animations using the IntersectionObserver API.
-
-📁 Project File Structure
-.
-├── 📄 index.html        # The main HTML file.
-├── 🎨 style.css         # All CSS styles and animations.
-├── 🧠 script.js         # JavaScript for dynamic content and interactivity.
-├── 🔬 data.js           # Contains the array of all biological terms and their details.
-└── 📂 images/           # Directory containing all referenced photos (e.g., A.jpg, B.jpg).
-
-📚 Sources
-The definitions and concepts presented in this project were researched using the following resources:
-
-Biology Dictionary: biologydictionary.net
-
-Biology Online: www.biologyonline.com
-
-This README was generated to provide a comprehensive overview of the project.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Fe4Rless233/ABC-s-of-Biology/.git
